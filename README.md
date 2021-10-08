@@ -15,7 +15,12 @@ Beginner Series: Java Calculator for Mortgage Payment and Schedule of installmen
 3. Program will create amortization table like this
 
 Month      Old Balance      Payment     Interest    Principal   New Balance
+
     1         10000.00       207.58        75.00       132.58       9867.42
+    
     2          9867.42       207.58        74.01       133.58       9733.84
+    
   ...
+  
    12          8485.64       207.58        63.64       143.94       8341.70
+   
